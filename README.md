@@ -6,7 +6,7 @@ Passionate about developing new skills and Looking for an opportunity to import 
 
 ❄️ Cloud platform: 
 
-        - AWS Cloud
+        * AWS Cloud
         
 ❄️ Operating Systems:
 
