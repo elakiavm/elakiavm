@@ -1,5 +1,7 @@
 Passionate about developing new skills and Looking for an opportunity to import my skills to resolve complex real-life problems.
 
+👋 Hi, I’m Elakia
+
 ❄️ Working as DevOps Engineer
 
 ❄️ Cloud platform: 
@@ -21,3 +23,7 @@ Passionate about developing new skills and Looking for an opportunity to import 
 ❄️ Scripting Languages:
         - Python
         - Bash
+❄️ Monitoring Tools:
+        - AWS CloudWatch
+
+    
