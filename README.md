@@ -5,8 +5,7 @@ Passionate about developing new skills and Looking for an opportunity to import 
 ❄️ Working as DevOps Engineer
 
 ❄️ Cloud platform: 
-
-        * AWS Cloud
+       * AWS Cloud
         
 ❄️ Operating Systems:
 
