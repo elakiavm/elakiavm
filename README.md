@@ -2,8 +2,6 @@ Passionate about developing new skills and Looking for an opportunity to import 
 
 👋 Hi, I’m Elakia
 
-❄️ Working as DevOps Engineer
-
 ❄️ Cloud platform: 
        - AWS Cloud
         
